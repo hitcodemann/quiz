@@ -17,12 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Reference
 Instructor: @angelabauer
-
-[london app brewery](https://github.com/londonappbrewery)
-
-### Screenshots
-<div align="center">
-    <img src="/screenshots/screenshot1.jpeg" width="400px" /> 
-    <img src="/screenshots/screenshot2.jpeg" width="400px" /> 
-</div>
-
